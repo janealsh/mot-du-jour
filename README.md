@@ -1,8 +1,7 @@
-# React + Vite
+# Mot Du Jour project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the Mot du Jour, or Word of the Day, project created by Jane Al-Shihabi. It aims to present a new vocabulary word every day in order to keep your language knowledge refreshed.
 
-Currently, two official plugins are available:
+Currently in English, but more languages (such as French, Arabic, and Japanese) to come!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit my [website](www.jalshihabi.xyz) and the [project](https://mdjapp.netlify.app/).
